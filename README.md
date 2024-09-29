@@ -14,6 +14,8 @@ Experienced Frontend Developer with a strong background in building responsive a
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imkeshriraj&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+## 🪪 HacktoberFest Badges
 [![An image of @keshrirajj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keshrirajj)](https://holopin.io/@keshrirajj)
 
 ### ✍️ Random Dev Quote
